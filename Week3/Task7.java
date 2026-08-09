@@ -13,8 +13,8 @@ public class Task7 {
     }
 
     public static void main(String[] args) {
-        int[] nums1 = {10, 2};
-        int[] nums2 = {3, 30, 34, 5, 9};
+        int[] nums1 = {15, 6};
+        int[] nums2 = {3, 20, 54, 1, 21};
         System.out.println(largestNumber(nums1));
         System.out.println(largestNumber(nums2));
     }
