@@ -1,6 +1,5 @@
 package Week3;
-import java.util.Arrays;
-
+import java.util.
 public class Task10 {
     public static String[] sortPeople(String[] names, int[] heights) {
         Integer[] idx = new Integer[names.length];
@@ -15,6 +14,7 @@ public class Task10 {
         String[] names = {"Advaita", "John", "Harsh"};
         int[] heights = {190, 150, 111};
         System.out.println(Arrays.toString(sortPeople(names, heights)));
+
 
         String[] names2 = {"Goke", "sel", "ella"};
         int[] heights2 = {155, 185, 150};
