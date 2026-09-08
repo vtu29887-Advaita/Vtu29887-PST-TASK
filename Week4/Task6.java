@@ -24,6 +24,7 @@ public class Task6 {
     movezeros(nums);
     for(int i=0;i<n;i++){
             System.out.print("output: "+ Arrays.toString(nums));
-            sc.close();
-        }
-    }
+            sc.close()
+
+    ]
+]
