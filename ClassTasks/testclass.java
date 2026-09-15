@@ -4,7 +4,7 @@ interface Sample
 final String name = "Shree";
 void display();
 }
-public class testClass implements Sample
+public class testClass
 {
 public void display()
 {
